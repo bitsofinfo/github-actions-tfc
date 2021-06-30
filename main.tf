@@ -14,7 +14,7 @@ terraform {
 # whatever2
 
 provider "google" {
-  project     = "bitsofinfo-vault-customer-pov"
+  project     = "tharris-vault-customer-pov"
   region      = "europe-west2"
   zone        = "europe-west2-a"
 }
